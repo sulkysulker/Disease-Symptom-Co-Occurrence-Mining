@@ -71,7 +71,7 @@ Data Warehousing & Mining Project/
 **Create virtual environment (recommended)**
 
 ```bash
-cd "c:/Users/tippa/Data Warehousing & Mining Project"
+
 python -m venv venv
 venv\Scripts\activate
 ```
