@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Data files
+# Keep the small example dataset in-repo; ignore any additional/raw datasets.
+data/*
+!data/sample_disease_symptom.csv
+
+# Common generated artifacts (ML/ETL)
+models/
+artifacts/
+checkpoints/
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.h5
+*.onnx
+*.ckpt
+*.log
+
+# Project Documentation
+"Disease Symptom Co-Occurrence Mining using Data Mining.pdf"

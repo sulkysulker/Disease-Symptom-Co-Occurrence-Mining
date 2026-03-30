@@ -1,0 +1,46 @@
+patient_id,disease,symptom
+P001,Flu,Fever
+P001,Flu,Cough
+P001,Flu,Headache
+P002,Flu,Fever
+P002,Flu,Body Pain
+P003,Flu,Fever
+P003,Flu,Cough
+P004,COVID-19,Fever
+P004,COVID-19,Cough
+P004,COVID-19,Loss of Smell
+P005,COVID-19,Fever
+P005,COVID-19,Shortness of Breath
+P006,COVID-19,Cough
+P006,COVID-19,Fatigue
+P007,Typhoid,Fever
+P007,Typhoid,Abdominal Pain
+P007,Typhoid,Headache
+P008,Typhoid,Fever
+P008,Typhoid,Vomiting
+P009,Malaria,Fever
+P009,Malaria,Chills
+P009,Malaria,Sweating
+P010,Malaria,Fatigue
+P010,Malaria,Headache
+P011,Dengue,Fever
+P011,Dengue,Joint Pain
+P011,Dengue,Skin Rash
+P012,Dengue,Fatigue
+P012,Dengue,Headache
+P013,Common Cold,Cough
+P013,Common Cold,Sneezing
+P013,Common Cold,Runny Nose
+P014,Common Cold,Sore Throat
+P014,Common Cold,Cough
+P015,Asthma,Shortness of Breath
+P015,Asthma,Cough
+P016,Asthma,Chest Tightness
+P016,Asthma,Wheezing
+P017,Hypertension,Headache
+P017,Hypertension,Dizziness
+P018,Hypertension,Blurred Vision
+P019,Diabetes,Frequent Urination
+P019,Diabetes,Increased Thirst
+P020,Diabetes,Fatigue
+
